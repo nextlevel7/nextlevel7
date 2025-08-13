@@ -28,6 +28,14 @@
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujanlamichhane/sujanlamichhane/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujanlamichhane/sujanlamichhane/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujanlamichhane/sujanlamichhane/output/snake.svg" />
+</picture>
+
 
 ## 🔥 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujanlamichhane&theme=tokyo-night&hide_border=true)

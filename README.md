@@ -13,7 +13,7 @@
 
 - 🎯 **Full Stack Engineer** specializing in scalable web applications and AI-powered solutions
 - 💡 Exploring cutting-edge technologies in **AI, Machine Learning, and Cloud Computing**
-- 🌱 Currently mastering **Angular, Spring Boot, and Generative AI**
+- 🌱 Currently mastering **Angular, Spring Boot, Python , GENAI**
 - ⚡ Strong advocate for **clean architecture, efficient code, and impactful products**
 - 🔍 Always learning, always growing, always coding
 

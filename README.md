@@ -13,7 +13,7 @@
 
 - **Full Stack Engineer** specializing in scalable web applications 
 - Exploring technologies in **AI, Machine Learning, and Cloud Computing**
-- Currently mastering **Angular,  Python *
+- Currently mastering **Angular,  Python **
 - Strong advocate for **clean architecture, efficient code, and impactful products**
 -  lways learning, always growing, always coding
 

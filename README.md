@@ -15,7 +15,7 @@
 - Exploring technologies in **AI, Machine Learning, and Cloud Computing**
 - Currently mastering **Angular,  Python**
 - Strong advocate for **clean architecture, efficient code, and impactful products**
--  lways learning, always growing, always coding
+- Always learning, always growing
 
 ---
 

@@ -60,16 +60,6 @@
 ---
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/nextlevel7/nextlevel7/blob/output/github-snake-dark.svg)
-</div>
-
----
-
-
 ## 🏆 Featured Projects
 
 <div align="center">

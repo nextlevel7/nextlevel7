@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - **Full Stack Engineer** specializing in scalable web applications 
 - Exploring technologies in **AI, Machine Learning, and Cloud Computing**
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 </div>
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -69,17 +69,3 @@
 
 </div>
 
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-<img src="https://komarev.com/ghpvc/?username=sujanlamichhane&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-
-</div>

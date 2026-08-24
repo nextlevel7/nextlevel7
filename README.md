@@ -57,25 +57,6 @@
 
 </div>
 
----
-
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🚀 **Algorithm Visualizer** | Interactive algorithm visualization platform | Angular, Java, D3.js | [Demo](#) • [Code](#) |
-| 🤖 **AI Chatbot** | Deep learning-based NLP chatbot | Python, TensorFlow, Flask | [Demo](#) • [Code](#) |
-| 🛒 **E-commerce Platform** | Full-stack e-commerce solution | Angular, Spring Boot, PostgreSQL | [Demo](#) • [Code](#) |
-
-</div>
-
----
-
-
----
 
 ## 📫 Let's Connect
 
